@@ -1,0 +1,98 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.5"
+    {
+    }
+    "Staging|PHP 5.5"
+    {
+    }
+    "Production|PHP 5.5"
+    {
+    }
+}
+"Files"
+{
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.css.map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.min.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.css.map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.min.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fonts"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fonts\\glyphicons-halflings-regular.eot"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fonts\\glyphicons-halflings-regular.svg"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fonts\\glyphicons-halflings-regular.ttf"
+    {
+    "ProjRelPath" = "T"
+    }
+    "fonts\\glyphicons-halflings-regular.woff"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\bootstrap.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\bootstrap.min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "salvar.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
